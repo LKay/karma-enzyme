@@ -1,0 +1,26 @@
+{
+  "name": "karma-enzyme",
+  "description": "Enzyme for Karma",
+  "version": "0.0.1",
+  "author": "Karol Janyst <lapkom+karma-enzyme@gmail.com> (https://github.com/LKay)",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "enzyme",
+    "react"
+  ],
+  "main": "./index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/LKay/karma-enzyme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LKay/karma-enzyme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LKay/karma-enzyme/issues"
+  },
+  "peerDependencies": {
+    "enzyme": ">=2.5.0",
+    "karma": ">=1.0.0"
+  }
+}
